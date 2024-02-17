@@ -1,0 +1,1 @@
+* News Home Page is a just static page
