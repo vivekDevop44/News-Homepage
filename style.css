@@ -76,7 +76,7 @@ section .web_desktop_img {
   height: 15rem;
   grid-column: span 2;
   grid-row: span 2;
-  background: url(assets/images/image-web-3-mobile.jpg) no-repeat center/cover;
+  background: url(images/image-web-3-mobile.jpg) no-repeat center/cover;
   margin: 2rem 0;
 }
 section .bright_future_headline {
@@ -200,7 +200,7 @@ section .cards > div div p {
   }
   section .web_desktop_img {
     height: auto;
-    background: url(assets/images/image-web-3-desktop.jpg) no-repeat center/cover;
+    background: url(images/image-web-3-desktop.jpg) no-repeat center/cover;
   }
   section .cards h3 {
     padding-block: 1rem;
